@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+}
+
+h2 {
+    font-family: sans-serif
+}
+
+h3 {
+    font-family: sans-serif
+}
